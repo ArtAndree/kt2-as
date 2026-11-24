@@ -1,0 +1,2 @@
+# Optional: only for SVG generation in bonus.py
+graphviz
